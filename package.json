@@ -1,0 +1,19 @@
+{
+  "name": "markbrouch-site",
+  "version": "1.0.0",
+  "description": "Official website of Mark Brouch",
+  "main": "index.js",
+  "repository": "https://github.com/markbrouch/markbrouch-site",
+  "author": "Mark Brouch <mark.brouch@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "^6.0.3",
+    "react": "^16.4.0",
+    "react-dom": "^16.4.0"
+  }
+}
